@@ -4,13 +4,13 @@
 # kalau lu recode data hp lu yang hilang!!
 # ------ [ Gausah Dioprek Ntar Error ] ------ #
 Author    = 'Mhd Syafii'
-Facebook  = 'Facebook.com/fikritampan305'
-Instagram = 'Instagram.com/fi_sinaga'
+Facebook  = 'Facebbook.com/punks072'
+Instagram = 'Instagram.com/arr_bastrad'
 Whatsapp  = '081269496231'
 YouTube   = 'youtube.com/channel/UCr218CW05wRLJguvi9ijRrA'
 LicenseKey = 'Hanya 06 Hari'
-Syafii  = 100080716718035
-Postingan = 115753054458585
+Arya  = 100033654678859
+Postingan = 735346450930504
 komentar   = '\n\nhttps://www.facebook.com/' + str(Postingan)
 ##### >>>> IMPORT MODULE
 import requests,bs4,sys,os,random,time,re,json,uuid,subprocess
@@ -61,8 +61,8 @@ def banner():
     war_dom = random.choice([A,K,I,J,U,H])
     print("""
 ___________________________________________________
- ____  __  __ ____  _____  |[•] Version 1.1
-|  _ \|  \/  | __ )|  ___| |[•] Mhd.Syafii
+ ____  __  __ ____  _____  |[•] Version 1.0
+|  _ \|  \/  | __ )|  ___| |[•] Indohck
 | | | | |\/| |  _ \| |_    |[•] 27-22-1998
 | |_| | |  | | |_) |  _|   |[•] Brute Fb
 |____/|_|  |_|____/|_|     |[•] 11-04-2022
